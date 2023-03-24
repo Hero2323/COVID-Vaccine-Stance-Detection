@@ -1,7 +1,7 @@
 # COVID-Vaccine-Stance-Detection
 The idea is to do semantic analysis and detect category from Arabic Tweets. For every tweet , we should classify it as positive or negative or natural regrading to COVID219 Vaccine. The second task to do classification based on cateogry for same tweets.We have 7 types: Personal,News..etc 
 
->This serves as the project for the Natural Language Processing course taught to juniors in CUFE for 2023. We ranked 3 in our class
+>This serves as the project for the Natural Language Processing course taught to juniors in CUFE for 2023. We ranked 3rd in our class
 ## Technologies 📚
 <br>
 <div align='center'>
